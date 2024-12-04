@@ -1,0 +1,29 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap"); */
+
+.footer {
+  width: 100%;
+  height: 200px;
+  background-color: #12161c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 10px;
+}
+
+.socialMedia {
+  display: flex;
+  justify-content: center;
+}
+
+.socialMedia svg {
+  color: white;
+  margin: 20px;
+  font-size: 45px;
+  cursor: pointer;
+}
+
+.footer p {
+  color: white;
+  font-size: 15px;
+}
